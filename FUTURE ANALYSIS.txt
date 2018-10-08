@@ -1,0 +1,22 @@
+**FUTURE ANALYSIS**
+
+Below is a list of pieces of analysis that I want to work on if I can access the appropriate data:
+
+- THE EFFECT OF RED CARDS ON FOOTBALL MATCHES
+
+    There is the popular footballing cliche that 'they played better with 10 men'. I want to test the statistical significance of this claim and how football matches are actually effected by a red card. The original motivation for this was a debate between friends over whether playing with one less player has more effect on a rugby or football team. The comparison between the two sports could produce interesting results too. The results could also be used to assess the potential outcome of implementing sin bins in football.
+    
+    TESTS:
+    - Final outcome of match after red card.
+    - Conditional probability: Final outcome of match given the current result at the time of the red card.
+    - Post red card score line.
+    - How the timing of the red card influences the outcome. Red card minutes played vs. outcome.
+    
+- THE RELATIONSHIP BEWEEN AGE AND PERFORMANCE
+
+    Another theory I would like to test is about the prime age of football players. The suggested age tends to be approximately 27 (although this is positionally dependent). The analysis would have to be conducted on a player by player basis over their careers to be a fair test. It will be interesting to see how the results are affected by late/early bloomers.
+    
+    TESTS:
+    - Compare the key performance indicators over past seasons by age group. This has big limitations but interesting to see an overall view.
+    - Compare player's performance indicators over their careers (accounting for playing time). Account for team/league strength?
+    - Compare results between different positions.
